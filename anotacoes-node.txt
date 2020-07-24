@@ -1,0 +1,5 @@
+Anotações Node
+O que é o Express
+
+É um framework web 
+Fornece uma estrutura e conjunto de Recurso
